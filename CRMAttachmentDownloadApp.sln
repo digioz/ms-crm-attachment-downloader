@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMAttachmentDownloadApp", "CRMAttachmentDownloadApp\CRMAttachmentDownloadApp.csproj", "{2CCE86D5-3DEA-4AEA-9032-DD17E36B9EAF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CRMAttachDownloadInstaller", "CRMAttachDownloadInstaller\CRMAttachDownloadInstaller.vdproj", "{476B9272-D3DD-4DDF-9BB7-CF2C85E4097B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CRMAttachmentDownloadApp\\CRMAttachmentDownloadApp.csproj
+		SccProjectName1 = CRMAttachmentDownloadApp
+		SccLocalPath1 = CRMAttachmentDownloadApp
+		SccProjectUniqueName2 = CRMAttachDownloadInstaller\\CRMAttachDownloadInstaller.vdproj
+		SccProjectName2 = CRMAttachDownloadInstaller
+		SccLocalPath2 = CRMAttachDownloadInstaller
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCE86D5-3DEA-4AEA-9032-DD17E36B9EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE86D5-3DEA-4AEA-9032-DD17E36B9EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCE86D5-3DEA-4AEA-9032-DD17E36B9EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE86D5-3DEA-4AEA-9032-DD17E36B9EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476B9272-D3DD-4DDF-9BB7-CF2C85E4097B}.Debug|Any CPU.ActiveCfg = Debug
+		{476B9272-D3DD-4DDF-9BB7-CF2C85E4097B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
