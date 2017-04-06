@@ -2,3 +2,5 @@
 MS Dynamics CRM 4.0 & 2011 don't have a way for Administrators to Export attachments from database to local machine. This Application allows you to do so.
 
 For further questions, feel free to post your question or comments here.
+
+![alt tag](https://www.digioz.com/images/digioz/CRM_Attachment_Download_Application.png)
